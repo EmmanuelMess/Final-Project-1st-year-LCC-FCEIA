@@ -1,0 +1,9 @@
+dimension
+7
+obstaculos fijos
+obstaculos aleatorios
+5
+posicion inicial
+(1,1)
+objetivo
+(7,7)
